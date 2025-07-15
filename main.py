@@ -4,6 +4,7 @@ import pygame
 import random
 
 """ А это уже на игра !!!"""
+
 pygame.init()
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
