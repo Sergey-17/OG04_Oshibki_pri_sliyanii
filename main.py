@@ -1,5 +1,3 @@
-""" Игра """
-
 import pygame
 
 def calc(a, b):
